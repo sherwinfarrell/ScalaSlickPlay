@@ -1,0 +1,4 @@
+
+GET             /                           controllers.Application.function
+
+GET             /jsonObject                           controllers.Application.parserJson
